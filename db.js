@@ -1,3 +1,4 @@
+// use mysql as a database 
 const mysql = require('mysql2')
 
 const connection = mysql.createConnection({
